@@ -1,0 +1,20 @@
+[
+    {
+    "nomeProduto": "Beaumont Summit Kit",
+    "tamanho": "S",
+    "cor": "Red",
+    "quantidade": 27
+},
+{
+    "nomeProduto": "Montana Wind Jacket",
+    "tamanho": "XL",
+    "cor": "Black",
+    "quantidade": 80
+},
+{
+    "nomeProduto": "Celeste Sports Bra",
+    "tamanho": "XS",
+    "cor": "Yellow",
+    "quantidade": 5
+}
+]
